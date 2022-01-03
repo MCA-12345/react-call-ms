@@ -1,25 +1,19 @@
-import logo from './logo.svg';
 import './App.css';
+import metadataList from './metadata.json';
+import {Table} from "./Components/Table/table";
+import {Table2} from "./Components/Table/table";
+import {List} from "./Components/List/list";
+
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <div className="App">
+            <h1 className="mch1">mc hello3</h1>
+            <Table/>
+            <List metadataList={metadataList} />
+            <Table2 metadataList={metadataList} />
+        </div>
+    );
 }
 
 export default App;

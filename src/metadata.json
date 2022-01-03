@@ -1,0 +1,234 @@
+[{
+  "_id": {
+    "$oid": "60bf6c4d57ce9d597f874fa8"
+  },
+  "personNumber": "198001017894",
+  "documentType": "Summary",
+  "mediaType": "application/pdf",
+  "size": "88226",
+  "details": [
+    {
+      "name": "förmyndarNamn",
+      "value": "socialen",
+      "type": "STRING"
+    },
+    {
+      "name": "time1",
+      "value": {
+        "$date": "2021-06-08T08:58:56.940Z"
+      },
+      "type": "DATETIME"
+    },
+    {
+      "name": "number1",
+      "value": 105,
+      "type": "NUMBER"
+    }
+  ],
+  "contentId": "a9b4e7a4-8312-41b8-b469-3250ff4d860b.pdf",
+  "createTime": {
+    "$date": "2021-06-08T13:10:37.794Z"
+  },
+  "retentionPolicy": "DEFAULT",
+  "expirydate": {
+    "$date": "2026-06-07T22:00:00Z"
+  },
+  "_class": "se.goteborg.earchive.library.metadata.Metadata"
+},{
+  "_id": {
+    "$oid": "60c06ade2d3d30427e36ed04"
+  },
+  "personNumber": "198001017894",
+  "documentType": "Summary",
+  "mediaType": "application/pdf",
+  "size": "88226",
+  "details": [
+    {
+      "name": "förmyndarNamn",
+      "value": "socialen",
+      "type": "STRING"
+    },
+    {
+      "name": "time1",
+      "value": {
+        "$date": "2021-06-08T08:58:56.940Z"
+      },
+      "type": "DATETIME"
+    },
+    {
+      "name": "number1",
+      "value": 105,
+      "type": "NUMBER"
+    }
+  ],
+  "contentId": "7db7728c-9ebe-4426-92c7-c68ecfe86dfb.pdf",
+  "createTime": {
+    "$date": "2021-06-09T07:16:46.021Z"
+  },
+  "retentionPolicy": "DEFAULT",
+  "expirydate": {
+    "$date": "2026-06-08T22:00:00Z"
+  },
+  "_class": "se.goteborg.earchive.library.metadata.Metadata"
+},{
+  "_id": {
+    "$oid": "60c07190746e4737abd2f0c6"
+  },
+  "personNumber": "198001017894",
+  "documentType": "Summary",
+  "mediaType": "application/pdf",
+  "size": "88226",
+  "details": [
+    {
+      "name": "förmyndarNamn",
+      "value": "socialen",
+      "type": "STRING"
+    },
+    {
+      "name": "time1",
+      "value": {
+        "$date": "2021-06-08T08:58:56.940Z"
+      },
+      "type": "DATETIME"
+    },
+    {
+      "name": "number1",
+      "value": 105,
+      "type": "NUMBER"
+    }
+  ],
+  "contentId": "97b2f2bc-61ff-4656-b141-864b5b2e0e9b.pdf",
+  "createTime": {
+    "$date": "2021-06-09T07:45:20.913Z"
+  },
+  "retentionPolicy": "DEFAULT",
+  "expirydate": {
+    "$date": "2026-06-08T22:00:00Z"
+  },
+  "_class": "se.goteborg.earchive.library.Metadata"
+},{
+  "_id": {
+    "$oid": "61a8e57968b4b6481c06c8c0"
+  },
+  "personNumber": "198001017894",
+  "documentType": "Summary",
+  "mediaType": "application/pdf",
+  "size": "88226",
+  "contentId": "c203069b-1b11-4732-b75d-bb90a576745f.pdf",
+  "createTime": {
+    "$date": "2021-12-02T15:25:45.904Z"
+  },
+  "retentionPolicy": "DEFAULT",
+  "expirydate": {
+    "$date": "2026-12-01T23:00:00Z"
+  },
+  "_class": "se.goteborg.earchive.library.metadata.Metadata"
+},{
+  "_id": {
+    "$oid": "61a8e64753dcbb5485d2f042"
+  },
+  "personNumber": "198001017894",
+  "documentType": "Summary",
+  "mediaType": "application/pdf",
+  "size": "88226",
+  "details": [
+    {
+      "name": "förmyndarNamn",
+      "value": "socialen",
+      "type": "STRING"
+    },
+    {
+      "name": "time1",
+      "value": {
+        "$date": "2021-06-08T08:58:56.940Z"
+      },
+      "type": "DATETIME"
+    },
+    {
+      "name": "number1",
+      "value": 105,
+      "type": "NUMBER"
+    }
+  ],
+  "contentId": "f0c97646-2d27-48c8-a521-ab405aa05e23.pdf",
+  "createTime": {
+    "$date": "2021-12-02T15:29:11.018Z"
+  },
+  "retentionPolicy": "DEFAULT",
+  "expirydate": {
+    "$date": "2026-12-01T23:00:00Z"
+  },
+  "_class": "se.goteborg.earchive.library.Metadata"
+},{
+  "_id": {
+    "$oid": "61a9ee7253dcbb5485d2f043"
+  },
+  "personNumber": "198001017894",
+  "documentType": "Summary",
+  "mediaType": "application/pdf",
+  "size": "88226",
+  "details": [
+    {
+      "name": "förmyndarNamn",
+      "value": "socialen",
+      "type": "STRING"
+    },
+    {
+      "name": "time1",
+      "value": {
+        "$date": "2021-06-08T08:58:56.940Z"
+      },
+      "type": "DATETIME"
+    },
+    {
+      "name": "number1",
+      "value": 105,
+      "type": "NUMBER"
+    }
+  ],
+  "contentId": "22bb4ea4-4655-48f6-9b36-45bc650d914b.pdf",
+  "createTime": {
+    "$date": "2021-12-03T10:16:18.653Z"
+  },
+  "retentionPolicy": "DEFAULT",
+  "expirydate": {
+    "$date": "2026-12-02T23:00:00Z"
+  },
+  "_class": "se.goteborg.earchive.library.Metadata"
+},{
+  "_id": {
+    "$oid": "61a9f13953dcbb5485d2f044"
+  },
+  "personNumber": "198001017894",
+  "documentType": "Summary",
+  "mediaType": "application/pdf",
+  "size": "88226",
+  "details": [
+    {
+      "name": "förmyndarNamn",
+      "value": "socialen",
+      "type": "STRING"
+    },
+    {
+      "name": "time1",
+      "value": {
+        "$date": "2021-06-08T08:58:56.940Z"
+      },
+      "type": "DATETIME"
+    },
+    {
+      "name": "number1",
+      "value": 105,
+      "type": "NUMBER"
+    }
+  ],
+  "contentId": "6f234f32-8cc6-49dc-8969-cc55693cae17.pdf",
+  "createTime": {
+    "$date": "2021-12-03T10:28:09.022Z"
+  },
+  "retentionPolicy": "DEFAULT",
+  "expirydate": {
+    "$date": "2026-12-02T23:00:00Z"
+  },
+  "_class": "se.goteborg.earchive.library.Metadata"
+}]
