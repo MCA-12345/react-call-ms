@@ -1,5 +1,6 @@
 import {React, useState} from 'react';
 import './App.css';
+//Nedstående läser in JSON direkt från fil till variabel
 import metadataList from './metadata.json';
 //import {Table} from "./components/Table/table";
 import {Table2} from "./components/Table/table";
