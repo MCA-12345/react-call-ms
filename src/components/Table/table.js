@@ -1,25 +1,25 @@
 import React from 'react';
-export function Table() {
-    return(<table className="mctable">
-        <tbody>
-        <tr>
-            <th>Company</th>
-            <th>Contact</th>
-            <th>Country</th>
-        </tr>
-        <tr>
-            <td>Alfreds Futterkistt</td>
-            <td>Maria Anders</td>
-            <td>Germany</td>
-        </tr>
-        <tr>
-            <td>Centro comercial Moctezuma</td>
-            <td>Francisco Chang</td>
-            <td>Mexico</td>
-        </tr>
-        </tbody>
-    </table>);
-}
+// export function Table() {
+//     return(<table className="mctable">
+//         <tbody>
+//         <tr>
+//             <th>Company</th>
+//             <th>Contact</th>
+//             <th>Country</th>
+//         </tr>
+//         <tr>
+//             <td>Alfreds Futterkistt</td>
+//             <td>Maria Anders</td>
+//             <td>Germany</td>
+//         </tr>
+//         <tr>
+//             <td>Centro comercial Moctezuma</td>
+//             <td>Francisco Chang</td>
+//             <td>Mexico</td>
+//         </tr>
+//         </tbody>
+//     </table>);
+// }
 
 
 //Return kan bara retunera ett react element. Därför måste en <tr> wrappa <td> annars kan man
@@ -37,7 +37,7 @@ export function Table2(props) {
         {props.metadataList.map((item) => {
 
             return (
-                <tr>
+                <tr key={item._id.$oid}>
                 <td>{item.personNumber}</td>
                 <td>{item.documentType}</td>
                 </tr>
